@@ -15,6 +15,7 @@ public class Car_Trip {
             else{
                 System.out.println(X*10);
             }
+            
         }
         sc.close();
     }
