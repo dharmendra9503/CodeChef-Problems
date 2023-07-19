@@ -7,3 +7,5 @@
 /dataSources/
 /dataSources.local.xml
 /out/
+/jpa-buddy.xml
+/uiDesigner.xml
